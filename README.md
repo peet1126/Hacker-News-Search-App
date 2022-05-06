@@ -1,3 +1,10 @@
+# Hacker News Search App
+
+## Objectives
+
+- “/search” lets the user search the Hacker News Algolia API and displays a list of results (https://hn.algolia.com/api)
+- “/history” shows the users a list of their past searches from this session (these do not need to persist through refresh).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

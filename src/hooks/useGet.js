@@ -21,6 +21,7 @@ const useGet = (url) => {
           return res.json();
         })
         .then((data) => {
+          console.log(data);
           setData(data.hits);
           setLoading(false);
           setError(null);
